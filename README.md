@@ -46,11 +46,6 @@ This project is a data analysis and visualization tool that utilizes Jupyter Not
 - Start Route: Accepts a start date parameter and returns min, max, and average temperatures from the start date to the end of the dataset.
 - Start/End Route: Accepts start and end date parameters, returning min, max, and average temperatures for the specified date range.
 
-### Coding Conventions and Formatting
-
-- Adheres to best practices by placing imports, naming conventions, and DRY principles.
-- Maintains concise logic and promotes creative engineering.
-
 
 ## Credits
 
